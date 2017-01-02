@@ -43,13 +43,11 @@
 }
 </style>
 
-
-
 	<form id="upload" enctype="multipart/form-data">
 	
 		<div id="filedrag">
 			<div id="idle">
-				Upload to Salesforce
+				Demo CI - Upload to Salesforce
 			</div>
 			
 			<div id="loading">
