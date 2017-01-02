@@ -1,1 +1,1 @@
-CI Demo for Cloudbees.
+#Demo salesforce continuous integeration
