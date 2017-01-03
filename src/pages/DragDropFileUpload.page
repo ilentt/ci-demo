@@ -6,6 +6,7 @@
 	
 <script>
 		// change to false to block multi file upload -- comment by jeff
+		// change to false to block multi file upload -- comment by ilentt
 		var SUPPORT_MULTI_FILE = true;
 </script>
 
