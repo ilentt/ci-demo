@@ -52,7 +52,7 @@
 					Demo CI - Upload to Salesforce
 					Demo Continuous Integration upload to Salesforce
 				-->
-				<h1>This is test page to demo continuous integration upload to salesforce</h1>
+				<h2>This is test page to demo continuous integration upload to salesforce</h2>
 			</div>
 			
 			<div id="loading">
