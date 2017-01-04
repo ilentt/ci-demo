@@ -48,7 +48,10 @@
 	
 		<div id="filedrag">
 			<div id="idle">
-				Demo CI - Upload to Salesforce
+				<!-- 
+					Demo CI - Upload to Salesforce
+				-->
+				Demo Continuous Integration upload to Salesforce
 			</div>
 			
 			<div id="loading">
