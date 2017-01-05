@@ -5,8 +5,6 @@
 	<apex:variable var="objId" value="{!Account.Id}"/>
 	
 <script>
-		// change to false to block multi file upload -- comment by jeff
-		// change to false to block multi file upload -- comment by ilentt
 		var SUPPORT_MULTI_FILE = true;
 </script>
 
@@ -48,8 +46,7 @@
 	
 		<div id="filedrag">
 			<div id="idle">
-				Demo CI - Upload to Salesforce
-				Demo Continuous Integration upload to Salesforce
+			<h1>Demo</h1>
 			</div>
 			
 			<div id="loading">
