@@ -13,3 +13,5 @@ apply plugin: 'enforce'
 enforce {
     srcPath = 'src'
 }
+$ gradle CI-Demo -PcredentialId=68418bd0-6cc1-42c3-a331-0f8955f48050
+$ gradle deploy
